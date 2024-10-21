@@ -1,0 +1,1 @@
+This repository is intended to store the manim files written in Python for a Calculus BC project about differential equations. The differential equation in question in the file within this repository is the Solow Swan Equation.
